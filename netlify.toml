@@ -1,0 +1,7 @@
+[bulid]
+  functions="functions"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/actions"
+  status = 200
